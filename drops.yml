@@ -157,4 +157,19 @@ drops:
       buyPrice: 400000
       sellPrice: 12000
       slot: 33
-
+    20:
+      type: item
+      item:
+        material: WITHER_SKELETON_SKULL
+        quantity: 1
+      buyPrice: 75000
+      sellPrice: 5000
+      slot: 34
+    21:
+      type: item
+      item:
+        material: NETHER_STAR
+        quantity: 1
+      buyPrice: 350000
+      sellPrice: 25000
+      slot: 35

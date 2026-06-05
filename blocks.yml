@@ -309,6 +309,15 @@ blocks:
       slot: 31
       page: 2
     37:
+      type: item
+      item:
+        material: CHERRY_LOG
+        quantity: 32
+      buyPrice: 9000
+      sellPrice: 320
+      slot: 32
+      page: 2
+    38:
       type: special
       special: BALANCE
       slot: 53

@@ -92,3 +92,11 @@ miscellaneous:
       buyPrice: 250000
       sellPrice: 10000
       slot: 23
+    11:
+      type: item
+      item:
+        material: EXPERIENCE_BOTTLE
+        quantity: 64
+      buyPrice: 15000
+      sellPrice: 2000
+      slot: 24
