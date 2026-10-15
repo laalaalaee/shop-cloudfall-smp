@@ -10,151 +10,150 @@ drops:
       item:
         material: ROTTEN_FLESH
         quantity: 16
-      buyPrice: 2500
-      sellPrice: 80
+      buyPrice: 34
+      sellPrice: 2
       slot: 10
     2:
       type: item
       item:
         material: BONE
         quantity: 16
-      buyPrice: 4000
-      sellPrice: 150
+      buyPrice: 51
+      sellPrice: 3
       slot: 11
     3:
       type: item
       item:
         material: GUNPOWDER
         quantity: 16
-      buyPrice: 12000
-      sellPrice: 600
+      buyPrice: 51
+      sellPrice: 3
       slot: 12
     4:
       type: item
       item:
         material: STRING
         quantity: 16
-      buyPrice: 4500
-      sellPrice: 180
+      buyPrice: 51
+      sellPrice: 3
       slot: 13
     5:
       type: item
       item:
         material: SPIDER_EYE
         quantity: 16
-      buyPrice: 6000
-      sellPrice: 220
+      buyPrice: 85
+      sellPrice: 5
       slot: 14
     6:
       type: item
       item:
         material: ENDER_PEARL
         quantity: 4
-      buyPrice: 18000
-      sellPrice: 1200
+      buyPrice: 85
+      sellPrice: 5
       slot: 15
     7:
       type: item
       item:
         material: SLIME_BALL
         quantity: 16
-      buyPrice: 15000
-      sellPrice: 800
+      buyPrice: 68
+      sellPrice: 4
       slot: 16
     8:
       type: item
       item:
         material: PRISMARINE_CRYSTALS
         quantity: 16
-      buyPrice: 12000
-      sellPrice: 500
+      buyPrice: 85
+      sellPrice: 5
       slot: 19
     9:
       type: item
       item:
         material: PRISMARINE_SHARD
         quantity: 16
-      buyPrice: 9000
-      sellPrice: 400
+      buyPrice: 51
+      sellPrice: 3
       slot: 20
     10:
       type: item
       item:
         material: BLAZE_ROD
         quantity: 16
-      buyPrice: 25000
-      sellPrice: 1800
+      buyPrice: 85
+      sellPrice: 5
       slot: 21
     11:
       type: item
       item:
         material: MAGMA_CREAM
         quantity: 16
-      buyPrice: 12000
-      sellPrice: 600
+      buyPrice: 68
+      sellPrice: 4
       slot: 22
     12:
       type: item
       item:
         material: GHAST_TEAR
         quantity: 16
-      buyPrice: 45000
-      sellPrice: 3500
+      buyPrice: 85
+      sellPrice: 5
       slot: 23
     13:
       type: item
       item:
         material: LEATHER
         quantity: 16
-      buyPrice: 5000
-      sellPrice: 200
+      buyPrice: 85
+      sellPrice: 5
       slot: 24
     14:
       type: item
       item:
         material: RABBIT_HIDE
         quantity: 16
-      buyPrice: 3000
-      sellPrice: 100
+      buyPrice: 34
+      sellPrice: 2
       slot: 25
     15:
       type: item
       item:
         material: RABBIT_FOOT
         quantity: 16
-      buyPrice: 12000
-      sellPrice: 700
+      buyPrice: 85
+      sellPrice: 5
       slot: 29
     16:
       type: item
       item:
         material: INK_SAC
         quantity: 16
-      buyPrice: 6000
-      sellPrice: 250
+      buyPrice: 85
+      sellPrice: 5
       slot: 30
     17:
       type: item
       item:
         material: FEATHER
         quantity: 16
-      buyPrice: 2500
-      sellPrice: 80
+      buyPrice: 34
+      sellPrice: 2
       slot: 31
     18:
       type: item
       item:
         material: EGG
         quantity: 16
-      buyPrice: 2000
-      sellPrice: 60
+      buyPrice: 34
+      sellPrice: 2
       slot: 32
     19:
       type: item
       item:
         material: TOTEM_OF_UNDYING
         quantity: 1
-      buyPrice: 400000
+      buyPrice: 680000
       sellPrice: 12000
       slot: 33
-

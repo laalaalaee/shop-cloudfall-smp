@@ -17,70 +17,70 @@ ores:
       item:
         material: COAL
         quantity: 32
-      buyPrice: 2500
-      sellPrice: 120
+      buyPrice: 170
+      sellPrice: 10
       slot: 11
     2:
       type: item
       item:
         material: REDSTONE
         quantity: 64
-      buyPrice: 3500
-      sellPrice: 180
+      buyPrice: 34
+      sellPrice: 4
       slot: 12
     3:
       type: item
       item:
         material: LAPIS_LAZULI
         quantity: 64
-      buyPrice: 3500
-      sellPrice: 180
+      buyPrice: 34
+      sellPrice: 4
       slot: 13
     4:
       type: item
       item:
         material: IRON_INGOT
         quantity: 8
-      buyPrice: 12000
-      sellPrice: 1200
+      buyPrice: 510
+      sellPrice: 30
       slot: 14
     5:
       type: item
       item:
         material: GOLD_INGOT
         quantity: 8
-      buyPrice: 18000
-      sellPrice: 1800
+      buyPrice: 510
+      sellPrice: 30
       slot: 15
     6:
       type: item
       item:
         material: DIAMOND
         quantity: 8
-      buyPrice: 180000
-      sellPrice: 12000
+      buyPrice: 1700
+      sellPrice: 100
       slot: 21
     7:
       type: item
       item:
         material: EMERALD
         quantity: 8
-      buyPrice: 45000
-      sellPrice: 4000
+      buyPrice: 340
+      sellPrice: 40
       slot: 22
     8:
       type: item
       item:
         material: QUARTZ
         quantity: 64
-      buyPrice: 6000
-      sellPrice: 350
+      buyPrice: 34
+      sellPrice: 4
       slot: 23
     9:
       type: item
       item:
         material: NETHERITE_INGOT
         quantity: 1
-      buyPrice: 55000
+      buyPrice: 93500
       sellPrice: 8000
       slot: 24
